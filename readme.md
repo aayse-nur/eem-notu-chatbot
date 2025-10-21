@@ -133,7 +133,7 @@ c. LLM tarafından üretilen cevabı ekrana basar.
 
 ### 🔗 Uygulama Linki (Deploy Linki Buraya Gelecek)
 
-**Web Linki:** `[WEB UYGULAMASI LİNKİNİZ BURAYA GELECEK]`
+**Web Linki:** `https://eem-ders-asistani.streamlit.app/`
 
 ---
 
@@ -141,3 +141,4 @@ c. LLM tarafından üretilen cevabı ekrana basar.
 
 **Ayşe Nur Kar Uzun**  
 [GitHub Profiliniz](https://github.com/aayse-nur) | [LinkedIn Profiliniz](https://www.linkedin.com/in/ayse-nur-kar/)
+
