@@ -167,7 +167,7 @@ Proje tanıtım videosu:
 
 
 
-### 🔗 Uygulama Linki (Deploy Linki Buraya Gelecek)
+### 🔗 Uygulama Linki 
 
 **Web Linki:** `https://eem-ders-asistani.streamlit.app/`
 
@@ -177,6 +177,7 @@ Proje tanıtım videosu:
 
 **Ayşe Nur Kar Uzun**  
 [GitHub Profilim](https://github.com/aayse-nur) | [LinkedIn Profilim](https://www.linkedin.com/in/ayse-nur-kar/)
+
 
 
 
