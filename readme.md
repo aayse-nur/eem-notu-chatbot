@@ -148,11 +148,11 @@ E MOSFET'te ise fiziksel bir kanal yoktur. Kapıya uygulanan gerilim eşik değe
 
 | Görsel 1 | Görsel 2 | Görsel 3 |
 |:-:|:-:|:-:|
-| ![Görsel 1](assets/1.png) | ![Görsel 2](assets/2.png) | ![Görsel 3](assets/3.png) |
+| ![Görsel 1](assets/1.PNG) | ![Görsel 2](assets/2.PNG) | ![Görsel 3](assets/3.PNG) |
 
 | Görsel 4 | Görsel 5 | Görsel 6 (Olumsuz Yanıt) |
 |:-:|:-:|:-:|
-| ![Görsel 4](assets/4.png) | ![Görsel 5](assets/5.png) | ![Olumsuz Yanıt](assets/6.png) |
+| ![Görsel 4](assets/4.PNG) | ![Görsel 5](assets/5.PNG) | ![Olumsuz Yanıt](assets/6.PNG) |
 
 ## 🎥 Demo Videosu
 
@@ -175,6 +175,7 @@ Proje tanıtım videosu:
 
 **Ayşe Nur Kar Uzun**  
 [GitHub Profilim](https://github.com/aayse-nur) | [LinkedIn Profilim](https://www.linkedin.com/in/ayse-nur-kar/)
+
 
 
 
