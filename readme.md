@@ -142,6 +142,10 @@ E MOSFET'te ise fiziksel bir kanal yoktur. Kapıya uygulanan gerilim eşik değe
 * **Test Sorusu 5** “Atom bilgisi”
 * **Cevap:** " Asistan: Bu bilgi belgeden çıkarılamıyor." "(Çıkaramadığı bilginin de bu şekilde yanıtlandığını görmüş oluyoruz."
 
+## 📸 Ekran Görüntüleri | Görsel 1 | Görsel 2 | Görsel 3 | |:-:|:-:|:-:| | ![](assets/1.png) | ![](assets/2.png) | ![](assets/3.png) | | Görsel 4 | Görsel 5 | Görsel 6 | |:-:|:-:|:-:| | ![](assets/4.png) | ![](assets/5.png) | ![](assets/6.png) | ## 🎥 Demo Videosu Proje tanıtım videosu: [👉 İzlemek için tıklayın](assets/chatbotvideo.mp4)
+
+*Görsel 6: Sistem, verilen soruya olumsuz yanıt verdiğini göstermektedir.*
+
 ### 🔗 Uygulama Linki (Deploy Linki Buraya Gelecek)
 
 **Web Linki:** `https://eem-ders-asistani.streamlit.app/`
@@ -151,6 +155,7 @@ E MOSFET'te ise fiziksel bir kanal yoktur. Kapıya uygulanan gerilim eşik değe
 ## 👤 Yazar
 
 **Ayşe Nur Kar Uzun**  
-[GitHub Profiliniz](https://github.com/aayse-nur) | [LinkedIn Profiliniz](https://www.linkedin.com/in/ayse-nur-kar/)
+[GitHub Profilim](https://github.com/aayse-nur) | [LinkedIn Profilim](https://www.linkedin.com/in/ayse-nur-kar/)
+
 
 
