@@ -83,7 +83,7 @@ def create_answer(question, chat_history, retriever, llm, prompt):
 def main():
     st.set_page_config(page_title="Elektrik ve Elektronik RAG Asistanı", page_icon="⚡")
     st.title("⚡ Elektrik ve Elektronik Ders Notları Asistanı")
-    st.markdown("Yüklenen tüm Elektrik ve Elektronik ders notlarını kullanarak bilgiye dayalı (Grounded RAG) yapay zeka sistemi ile etkileşim kurun. Bu asistan, yalnızca sağlanan ders materyallerine göre cevap üretir.")
+    st.markdown("Yüklenen tüm Elektrik ve Elektronik ders notlarını kullanarak bilgiye dayalı (RAG) yapay zeka sistemi ile etkileşim kurun. Bu asistan, yalnızca sağlanan ders materyallerine göre cevap üretir.")
 
     retriever, llm, prompt = build_rag_system()
 
@@ -100,3 +100,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
