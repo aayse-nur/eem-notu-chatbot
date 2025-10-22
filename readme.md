@@ -121,15 +121,26 @@ c. LLM tarafından üretilen cevabı ekrana basar.
 
 ### Test Önerisi
 
-* **Test Sorusu:** "Diyot nedir?"
+* **Test Sorusu 1** "Diyot nedir?"
+* **Cevap:** " Asistan: Diyot, elektrik akımını yalnızca bir yönde ileten bir yarı iletken elemandır. İki terminale (anot ve katot) sahip olan diyot, ileri yönde kutuplandığında akım geçirebilirken, ters yönde kutuplandığında akım geçirmez. Diyotlar, çeşitli uygulamalarda kullanılır ve farklı türleri bulunmaktadır, örneğin, zener diyot, tünel diyot ve ışık yayan diyot (LED) gibi. Her bir diyot türü, belirli özellikleri ve çalışma prensipleri ile farklı amaçlar için tasarlanmıştır."
 
 * **Test Sorusu 2** “MOSFET nasıl çalışır?”
+* **Cevap:** " Asistan: MOSFET (Metal Oksit Yarı İletken FET), kapı ile kanal arasındaki SiO2 tabakası sayesinde izole bir yapıya sahiptir. MOSFET'in çalışma prensibi, kapıya uygulanan gerilime bağlı olarak değişir.
+
+DE MOSFET'te, kapıya negatif gerilim uygulanırsa "Azaltma" (Depletion) modunda, pozitif gerilim uygulanırsa "Arttırma" (Enhancement) modunda çalışır. N kanal DE MOSFET'te, kapıya uygulanan gerilim belirli bir eşik değerine ulaştığında, kanalın iletkenliği artar ve akım geçişine izin verir.
+
+E MOSFET'te ise fiziksel bir kanal yoktur. Kapıya uygulanan gerilim eşik değerinde olduğunda, SiO2 tabakasına komşu olan P malzemesinde ince bir negatif yük tabakası oluşur ve bu da bir kanal oluşturur. Eşik geriliminin altında bir kanal oluşmaz. Pozitif kapı kaynak gerilimi ile çalışır ve kapı kaynak gerilimi arttıkça kanaldaki elektron sayısı artar, böylece iletkenlik artar.
+
+Özetle, MOSFET'ler kapıya uygulanan gerilim ile kontrol edilen yarı iletken elemanlardır ve bu gerilim değişiklikleri, kanalın iletkenliğini etkileyerek akım geçişini sağlar."
 
 * **Test Sorusu 3** “Diyodun V-I Karakteristiği”
+* **Cevap:** "Asistan: Diyodun V-I karakteristiği, diyodun akım (I) ve gerilim (V) arasındaki ilişkiyi gösteren bir grafiktir. Bu karakteristik, diyodun ileri ve ters yöndeki davranışını belirler. İleri yönde kutuplandığında, diyot belirli bir eşik gerilimine (örneğin, germanyum için 0.3 V ve silisyum için 0.6 V) ulaştığında akım geçirmeye başlar. Ters yönde ise diyot, belirli bir ters dayanma gerilimine kadar akım geçirmez. V-I karakteristiği, bu iki durumda diyodun akım ve gerilim değerlerini gösteren bir grafik olarak çizilir."
 
 * **Test Sorusu 4** “Kovalent bağ nedir?”
+* **Cevap:** "Asistan: Kovalent bağ, atomlar arasında elektronların ortak kullanılması ile oluşan bir bağdır. Aynı cins atomlar kovalent bağ ile üç boyutlu düzenli bir kristal yapı oluşturur. Bu bağ, paylaşılan her elektronun kendisini paylaşan iki komşu atomun çekirdeği tarafından eşit bir şekilde çekilmesi ile atomları bir arada tutar. Kovalent bağ ile elektron paylaşımı, atomun nötr olmasını değiştirmez."
 
 * **Test Sorusu 5** “Atom bilgisi”
+* **Cevap:** " Asistan: Bu bilgi belgeden çıkarılamıyor." "(Çıkaramadığı bilginin de bu şekilde yanıtlandığını görmüş oluyoruz."
 
 ### 🔗 Uygulama Linki (Deploy Linki Buraya Gelecek)
 
@@ -141,4 +152,5 @@ c. LLM tarafından üretilen cevabı ekrana basar.
 
 **Ayşe Nur Kar Uzun**  
 [GitHub Profiliniz](https://github.com/aayse-nur) | [LinkedIn Profiliniz](https://www.linkedin.com/in/ayse-nur-kar/)
+
 
